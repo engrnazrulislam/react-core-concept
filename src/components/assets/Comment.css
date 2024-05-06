@@ -1,0 +1,23 @@
+.commentCardGreen{
+    border:1px solid gray;
+    border-radius: 16px;
+    margin:10px;
+    padding:16px;
+    box-shadow: 2px 2px 10px gray;
+    background-color: white;
+}
+.commentCardYellow{
+    border:1px solid gray;
+    border-radius: 16px;
+    margin:10px;
+    padding:16px;
+    box-shadow: 2px 2px 10px gray;
+    background-color: whitesmoke;
+}
+.title{
+    text-align: left;
+    color:blue;
+}
+.body{
+    text-align: justify;
+}
